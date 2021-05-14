@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Aditya.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> :octocat:&nbsp;About Me </h3>
 
 - :notebook:&nbsp; **Learning:** Full Stack Development | Open-Source.
 - :wrench:&nbsp; **Currently Working On:** React | Node.js
