@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 &nbsp; I'm learning to be a Full Stack developer who is passionate about web development and exciting technologies related to it.
-- 	:four_leaf_clover: &nbsp; I'm constantly learning to be a better developer and creating my own personal projects.
+- :four_leaf_clover: I'm constantly learning to be a better developer and creating my own personal projects.
 - 🔭  &nbsp; I’m currently working with React and Node.js
 - 👯  Would love to collaborate on anything related to Web
 - 🌱  On a never-ending quest of learning
