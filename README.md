@@ -38,8 +38,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign) -->
 
-<br/>
-
 <!-- 
 <a href="https://github.com/cacti23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cacti23&theme=buefy&show_icons=true" />
