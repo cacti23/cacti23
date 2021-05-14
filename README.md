@@ -7,6 +7,7 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 😄 Passionate about accessibility and committed to a web that works for everyone
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
