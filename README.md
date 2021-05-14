@@ -7,7 +7,7 @@
 - :soccer:&nbsp; **Hobbies:** Football | Music | Video Games
 - :telescope:&nbsp; **Looking For:** Full-Stack Development Internships/Jobs. 
 
-<h3>:books:&nbsp;Tech Stack</h3>
+<h3>:bowtie:&nbsp;Tech Stack</h3>
 
 - :basecamp:&nbsp;&nbsp; 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
