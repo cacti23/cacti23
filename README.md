@@ -40,10 +40,12 @@
 
 <br/>
 
+<!-- 
 <a href="https://github.com/cacti23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cacti23&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacti23&theme=buefy&layout=compact" />
 </a>
+-->
 
 <br/>
 
