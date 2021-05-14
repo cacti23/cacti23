@@ -57,4 +57,4 @@
 <a href="mailto:patel.aditya2014@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-patel.aditya2014@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [cacti23](https://github.com/cacti23)
+From [cacti23](https://github.com/cacti23)
