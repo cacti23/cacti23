@@ -2,16 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- :notebook:&nbsp; I'm learning to be a Full Stack developer who is passionate about web development and exciting technologies related to it.
+- :notebook:&nbsp; Learning: Full Stack Development | Open-Source.
 - :four_leaf_clover:&nbsp; I'm constantly learning to be a better developer and creating my own personal projects.
-- 🔭  &nbsp; I’m currently working with React and Node.js
-- 👯  Would love to collaborate on anything related to Web
-- 🌱  On a never-ending quest of learning
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- 😄 &nbsp; Passionate about accessibility and committed to a web that works for everyone
--  👯 I’m looking for a software development internship. 
+- :wrench:&nbsp; Currently Working On: React | Node.js
+-  I’m looking for a software development internship. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
