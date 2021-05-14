@@ -5,7 +5,7 @@
 - :notebook:&nbsp; **Learning:** Full Stack Development | Open-Source.
 - :wrench:&nbsp; **Currently Working On:** React | Node.js
 - :soccer:&nbsp; **Hobbies:** Football | Music | Video Games
-- :telescope:&nbsp; **Looking For:** Software Development Internships/Jobs. 
+- :telescope:&nbsp; **Looking For:** Full-Stack Development Internships/Jobs. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
