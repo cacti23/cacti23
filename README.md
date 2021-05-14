@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - :notebook:&nbsp; Learning: Full Stack Development | Open-Source.
-- :four_leaf_clover:&nbsp; I'm constantly learning to be a better developer and creating my own personal projects.
-- :wrench:&nbsp; Currently Working On: React | Node.js
--  I’m looking for a software development internship. 
+- :wrench:&nbsp; Currently Working On: React:atom: | Node.js:basecamp:
+- :soccer:&nbsp; Hobbies: Football:soccer: | Music:headphones: | Video Games:joystick:
+- :telescope:&nbsp; Looking For : Software Development Internships/Jobs. 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
