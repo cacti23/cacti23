@@ -7,7 +7,7 @@
 - :soccer:&nbsp; **Hobbies:** Football | Music | Video Games
 - :telescope:&nbsp; **Looking For:** Full-Stack Development Internships/Jobs. 
 
-<h3>:bowtie:&nbsp;Tech Stack</h3>
+<h3>:globe_with_meridians:&nbsp;Tech Stack</h3>
 
 - :basecamp:&nbsp;&nbsp; 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
@@ -22,7 +22,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
   
-- :fountain_pen:&nbsp;&nbsp;
+- :pen:&nbsp;&nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
