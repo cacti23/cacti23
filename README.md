@@ -19,7 +19,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
   
 - :ledger:&nbsp;&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
+<!--   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql) -->
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
   
 - :pen:&nbsp;&nbsp;
