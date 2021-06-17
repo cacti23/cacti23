@@ -27,8 +27,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
 
-- :desktop_computer:&nbsp;&nbsp; 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java&logoColor=007396)
+<!-- - :desktop_computer:&nbsp;&nbsp; 
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java&logoColor=007396) -->
 
 - :keyboard:&nbsp;&nbsp; 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
