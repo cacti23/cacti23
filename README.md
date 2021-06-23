@@ -2,8 +2,8 @@
 
 <h3>:octocat:&nbsp;About Me </h3>
 
-- :notebook:&nbsp; **Learning:** Full Stack Development | Open-Source.
-- :wrench:&nbsp; **Currently Working On:** React | Node.js
+<!-- - :notebook:&nbsp; **Learning:** Full Stack Development | React -->
+- :wrench:&nbsp; **Currently Working On:** ReactJS | Js Projects
 - :soccer:&nbsp; **Hobbies:** Football | Music | Video Games
 - :telescope:&nbsp; **Looking For:** Full-Stack Development Internships/Jobs. 
 
