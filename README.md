@@ -13,14 +13,14 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat-square&logo=express)
+<!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C) -->
+<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js) -->
+<!--   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat-square&logo=express) -->
   ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
   
-- :ledger:&nbsp;&nbsp;
+<!-- - :ledger:&nbsp;&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb) -->
   
 - :pen:&nbsp;&nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
