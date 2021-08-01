@@ -5,7 +5,7 @@
 <!-- - :notebook:&nbsp; **Learning:** Full Stack Development | React -->
 - :wrench:&nbsp; **Currently Working On:** React Projects
 - :soccer:&nbsp; **Hobbies:** Football | Music | Video Games
-- :telescope:&nbsp; **Looking For:** Full-Stack Development Internships/Jobs. 
+<!-- - :telescope:&nbsp; **Looking For:** Full-Stack Development Internships/Jobs.  -->
 
 <h3>:package:&nbsp;Tech Stack</h3>
 
