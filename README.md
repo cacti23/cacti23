@@ -1,61 +1,22 @@
-<h2>Hey there! I'm Aditya.</h2>
-
-<h3>:octocat:&nbsp;About Me </h3>
-
-<!-- - :notebook:&nbsp; **Learning:** Full Stack Development | React -->
-- :wrench:&nbsp; **Currently Working On:** React 
-- :soccer:&nbsp; **Hobbies:** Football | Music | Video Games
-<!-- - :telescope:&nbsp; **Looking For:** Full-Stack Development Internships/Jobs.  -->
-
-<h3>:package:&nbsp;Tech Stack</h3>
-
-- :globe_with_meridians:&nbsp;&nbsp; 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat-square&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
-  <!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap&logoColor=563D7C) -->
-<!--   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js) -->
-<!--   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat-square&logo=express) -->
-  
-<!-- - :ledger:&nbsp;&nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb) -->
-  
-- :pen:&nbsp;&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat-square&logo=markdown)
-
-<!-- - :desktop_computer:&nbsp;&nbsp; 
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java&logoColor=007396) -->
-
-- :keyboard:&nbsp;&nbsp; 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-  
-<!-- 
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign) -->
-
-<!-- 
-<a href="https://github.com/cacti23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cacti23&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cacti23&theme=buefy&layout=compact" />
-</a>
--->
-
-<h3>:mailbox_with_mail:&nbsp;Connect with Me </h3>
-
-<!--<p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
--->
 
 
-<a href="mailto:patel.aditya2014@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-patel.aditya2014@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+### Hi there 👋
 
-From [cacti23](https://github.com/cacti23)
+#### I'm a Full-Stack Developer working in India (currently Remote).
+
+- 🏢 I'm currently working at **Nonceblox**
+- 🌱 Learning all about **DSA and Open Source**
+- 🌍 My recent project is **DSA Questions Tracker**
+- ⚡️ Fun fact: I can deadlift 150kgs!
+- ⚙️ I have experience with: <br/>
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+📫 Reach me:<br/>
+[![Gmail](https://img.shields.io/badge/Gmail-patel.aditya2014@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patel.aditya2014@gmail.com "Connect via Email")
+[![LinkedIn](https://img.shields.io/badge/linkedin%20aditya-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityap314/ "Connect on LinkedIn")
+
+<!---
+adiCacti/adiCacti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
