@@ -4,7 +4,7 @@
 
 #### I'm a Full-Stack Developer working in India (currently Remote).
 
-- 🏢 I'm currently working at **CX100**
+- 🏢 I'm currently working at **PropertyGuru**
 - 🌱 Learning all about **DSA and Open Source**
 - 🌍 My recent project is **DSA Questions Tracker**
 - ⚡️ Fun fact: I can deadlift 150kgs!
